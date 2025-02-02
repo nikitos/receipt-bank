@@ -1,0 +1,9 @@
+{
+    "result": [
+      { "name": "Category 33", "image": "breakfast.png" },
+      { "name": "Category 44", "image": "breakfast.png" },
+      { "name": "Category 34", "image": "breakfast.png" },
+      { "name": "Category 44", "image": "breakfast.png" },
+      { "name": "Category 54", "image": "breakfast.png" }
+  ]
+}

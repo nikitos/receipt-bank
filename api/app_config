@@ -1,3 +1,4 @@
 {
-  "main_api": "https://nikitos.github.io/receipt-bank"
+  "main_api": "https://nikitos.github.io/receipt-bank",
+  "assets_uri": "https://nikitos.github.io/receipt-bank/assets/"
 }

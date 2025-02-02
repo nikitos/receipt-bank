@@ -1,9 +1,9 @@
 {
     "result": [
-      { "name": "Category 33", "image": "https://nikitos.github.io/receipt-bank/assets/main.png" },
-      { "name": "Category 44", "image": "https://nikitos.github.io/receipt-bank/assets/main.png" },
-      { "name": "Category 34", "image": "https://nikitos.github.io/receipt-bank/assets/main.png" },
-      { "name": "Category 44", "image": "https://nikitos.github.io/receipt-bank/assets/main.png" },
-      { "name": "Category 54", "image": "https://nikitos.github.io/receipt-bank/assets/main.png" }
+      { "name": "Category 33", "image": "main.png" },
+      { "name": "Category 44", "image": "main.png" },
+      { "name": "Category 34", "image": "main.png" },
+      { "name": "Category 44", "image": "main.png" },
+      { "name": "Category 54", "image": "main.png" }
   ]
 }
