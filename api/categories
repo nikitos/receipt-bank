@@ -1,9 +1,9 @@
 {
     "result": [
-      { "name": "Category 33", "image": "main.png" , "url": "breakfast"},
-      { "name": "Category 44", "image": "main.png" , "url": "breakfast"},
-      { "name": "Category 34", "image": "main.png" , "url": "breakfast"},
-      { "name": "Category 44", "image": "main.png" , "url": "breakfast"},
-      { "name": "Category 54", "image": "main.png" , "url": "breakfast"}
+      { "name": "Category 33", "image": "main.png" , "url": "breakfast", "type": "splash"},
+      { "name": "Category 44", "image": "main.png" , "url": "breakfast", "type": "splash"},
+      { "name": "Category 34", "image": "main.png" , "url": "breakfast", "type": "splash"},
+      { "name": "Category 44", "image": "main.png" , "url": "breakfast", "type": "splash"},
+      { "name": "Category 54", "image": "main.png" , "url": "breakfast", "type": "splash"}
   ]
 }
