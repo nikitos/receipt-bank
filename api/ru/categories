@@ -1,9 +1,10 @@
 {
     "result": [
-      { "name": "Category 33", "image": "main.png" , "url": "breakfast", "type": "menu"},
-      { "name": "Category 44", "image": "main.png" , "url": "breakfast", "type": "menu"},
-      { "name": "Category 34", "image": "main.png" , "url": "breakfast", "type": "menu"},
-      { "name": "Category 44", "image": "main.png" , "url": "breakfast", "type": "menu"},
-      { "name": "Category 54", "image": "main.png" , "url": "breakfast", "type": "menu"}
+      { "name": "Завтраки", "image": "breakfast.png" , "url": "breakfast", "type": "menu"},
+      { "name": "Закуски", "image": "appetizers.png" , "url": "appetizers", "type": "menu"},
+      { "name": "Салаты", "image": "salads.png" , "url": "salads", "type": "menu"},
+      { "name": "Супы", "image": "soups.png" , "url": "soups", "type": "menu"},
+      { "name": "Горячее", "image": "maindish.png" , "url": "maindish", "type": "menu"},
+      { "name": "Другое", "image": "other.png" , "url": "other", "type": "menu"}
   ]
 }
