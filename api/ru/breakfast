@@ -1,9 +1,10 @@
 {
     "result": [
-      { "name": "Category 33", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item"},
-      { "name": "Блинчики", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
-      { "name": "Шакшука", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
-      { "name": "Омлет", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
-      { "name": "Category 54", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" }
+      { "name": "Бутер", "text": "с пастрами и квашенной капустй", "image": "breakfast.png", "url": "breakfast", "type": "item"},
+      { "name": "Бутер", "text": "с авакадо и перепелиным пашот", "image": "breakfast.png", "url": "breakfast", "type": "item"},
+      { "name": "Блинчики", "text": "заварные на кефире", "image": "breakfast.png", "url": "breakfast", "type": "item" },
+      { "name": "Шакшука", "text": "с перцем рамиро и чипотл", "image": "breakfast.png", "url": "breakfast", "type": "item" },
+      { "name": "Омлет", "text": "фирменны, с черным хлебом", "image": "breakfast.png", "url": "breakfast", "type": "item" },
+      { "name": "Каша овсяная", "text": "с тунцом и пашот", "image": "breakfast.png", "url": "breakfast", "type": "item" }
   ]
 }
