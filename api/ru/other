@@ -1,6 +1,6 @@
 {
     "result": [
-      { "name": "Перечный соус", "image": "other/pepper.png", "url": "breakfast", "type": "item"},
-      { "name": "Говяжий жир", "image": "other/fat.png", "url": "breakfast", "type": "item" }
+      { "name": "Перечный соус", "image": "other/pepper.png", "url": "test", "type": "item"},
+      { "name": "Говяжий жир", "image": "other/fat.png", "url": "test", "type": "item" }
   ]
 }
