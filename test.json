@@ -1,3 +1,35 @@
 {
-  "123": 123
+  "preps": { 
+    "title": "Время приготовления",
+    "items": [
+    "<span>Total</span>: Approximately 10 minutes",
+    "<span>Preparation</span>: 5 minutes",
+    "<span>Cooking:</span> 5 minutes"
+  ]},
+  "ingredients": { 
+    "title": "Ингридиенты",
+    "items": [
+    "<span>Total</span>: Approximately 10 minutes",
+    "<span>Preparation</span>: 5 minutes",
+    "<span>Preparation</span>: 5 minutes",
+    "<span>Preparation</span>: 5 minutes",
+    "<span>Cooking:</span> 5 minutes"
+  ]},
+  "instructions": { 
+    "title": "Инструкции",
+    "items": [
+    ["Калории", "Значения указаны на порцию"],
+    ["Белки", "Значения указаны на порцию"],
+    ["Жиры", "Значения указаны на порцию"],
+    ["Углеводы", "Значения указаны на порцию"]
+  ]},
+  "nutrients": { 
+    "title": "КБЖУ",
+    "text": "Значения указаны на порцию",
+    "items": [
+    ["Калории", "277kcal"],
+    ["Белки", "0g"],
+    ["Жиры", "22g"],
+    ["Углеводы", "20g"]
+  ]}
 }
