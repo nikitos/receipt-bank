@@ -1,9 +1,9 @@
 {
     "result": [
-      { "name": "Category 33", "subname": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item"},
-      { "name": "Блинчики", "subname": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
-      { "name": "Шакшука", "subname": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
-      { "name": "Омлет", "subname": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
-      { "name": "Category 54", "subname": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" }
+      { "name": "Category 33", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item"},
+      { "name": "Блинчики", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
+      { "name": "Шакшука", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
+      { "name": "Омлет", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" },
+      { "name": "Category 54", "text": "asd asd asd", "image": "breakfast.png", "url": "breakfast", "type": "item" }
   ]
 }
